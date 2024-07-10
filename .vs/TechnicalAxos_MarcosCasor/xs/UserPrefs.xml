@@ -1,0 +1,67 @@
+﻿<Properties StartupConfiguration="{75A55DE3-DA63-462D-BF61-B266B1F70F61}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.UnitTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TechnicalAxos__MarcosCasor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="34.0.113" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <Breakpoint file="/Users/marcos/Projects/TechnicalAxos_MarcosCasor/TechnicalAxos_MarcosCasor/ViewModels/MainPageViewModel.cs" relfile="TechnicalAxos_MarcosCasor/ViewModels/MainPageViewModel.cs" line="91" column="1" />
+    <Breakpoint file="/Users/marcos/Projects/TechnicalAxos_MarcosCasor/TechnicalAxos_MarcosCasor/ViewModels/MainPageViewModel.cs" relfile="TechnicalAxos_MarcosCasor/ViewModels/MainPageViewModel.cs" line="83" column="1" />
+    <Breakpoint file="/Users/marcos/Projects/TechnicalAxos_MarcosCasor/UnitTest/MainPageViewModelTests.cs" relfile="UnitTest/MainPageViewModelTests.cs" line="12" column="1" />
+    <Breakpoint file="/Users/marcos/Projects/TechnicalAxos_MarcosCasor/UnitTest/MainPageViewModelTests.cs" relfile="UnitTest/MainPageViewModelTests.cs" line="19" column="1" />
+    <Breakpoint file="/Users/marcos/Projects/TechnicalAxos_MarcosCasor/UnitTesting/UnitTest1.cs" relfile="UnitTesting/UnitTest1.cs" line="10" column="1" />
+    <Breakpoint file="/Users/marcos/Projects/TechnicalAxos_MarcosCasor/UnitTesting/UnitTest1.cs" relfile="UnitTesting/UnitTest1.cs" line="17" column="1" />
+    <Breakpoint file="/Users/marcos/Projects/TechnicalAxos_MarcosCasor/TechnicalAxos_MarcosCasor/ViewModels/MainPageViewModel.cs" relfile="TechnicalAxos_MarcosCasor/ViewModels/MainPageViewModel.cs" line="50" column="1" />
+    <Breakpoint file="/Users/marcos/Projects/TechnicalAxos_MarcosCasor/Testing/UnitTest1.cs" relfile="Testing/UnitTest1.cs" line="11" column="1" />
+    <Breakpoint file="/Users/marcos/Projects/TechnicalAxos_MarcosCasor/Testing/UnitTest1.cs" relfile="Testing/UnitTest1.cs" line="12" column="1" />
+    <Breakpoint file="/Users/marcos/Projects/TechnicalAxos_MarcosCasor/UnitTesting/UnitTest1.cs" relfile="UnitTesting/UnitTest1.cs" line="11" column="1" />
+    <Breakpoint file="/Users/marcos/Projects/TechnicalAxos_MarcosCasor/UnitTest/MainPageViewModelTests.cs" relfile="UnitTest/MainPageViewModelTests.cs" line="10" column="1" />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnitTest/MainPageViewModelTests.cs">
+    <Files>
+      <File FileName="TechnicalAxos_MarcosCasor/TechnicalAxos_MarcosCasor.csproj" />
+      <File FileName="UnitTesting/UnitTesting.csproj" />
+      <File FileName="UnitTest/MainPageViewModelTests.cs" Line="14" Column="1" />
+      <File FileName="Testing/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="TechnicalAxos_MarcosCasor/ViewModels/MainPageViewModel.cs" Line="48" Column="35" />
+      <File FileName="Testing/Testing.csproj" />
+      <File FileName="UnitTesting/UnitTest1.cs" />
+      <File FileName="UnitTest/UnitTest.csproj" Line="4" Column="45" />
+      <File FileName="../../../../usr/local/share/dotnet/packs/Microsoft.iOS.Sdk/17.2.8078/tools/msbuild/iOS/Xamarin.Shared.targets" />
+      <File FileName="TechnicalAxos_MarcosCasor/Platforms/iOS/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TechnicalAxos_MarcosCasor" expanded="True">
+            <Node name="TechnicalAxos_MarcosCasor" selected="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Platforms">
+                <Node name="iOS" expanded="True" />
+              </Node>
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="MainPage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="AppShell.xaml" expanded="True" />
+            </Node>
+            <Node name="Testing">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="UnitTesting">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="TechnicalAxos_MarcosCasor" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_4_API_33" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
